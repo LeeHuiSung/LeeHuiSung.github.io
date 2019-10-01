@@ -15,8 +15,8 @@ sass:
 
 permalink: /posts/:title/
 texture:
-  title: Adam Denisov
-  tagline: Developer. Designer
+  title: 이희성
+  # tagline: Developer. Designer
   date_format: "%b %-d, %Y"
   style: black
   showNav: false
@@ -25,7 +25,7 @@ texture:
   # generate social links in footer
   social_links:
     twitter: thelehhman
-    github:  thelehhman
+    github:  LeeHuiSung
     linkedIn: in/thelehhman
     rss: rss
  
